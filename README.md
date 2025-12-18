@@ -33,3 +33,4 @@ explicitly testable and falsifiable.
 Please cite the arXiv preprint when referencing this work.
 
 (arXiv ID will be added after acceptance.)
+Declare MOSGM theory hard-lock (v3.0) prior to submission
