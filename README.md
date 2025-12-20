@@ -1,5 +1,11 @@
-# MOSGM-I
+# MOSGM-I  
+### Multi-Origin Spacetime Gradient Model  
+*A phenomenological framework for environment-dependent gravity*
 
+📄 arXiv: under review  
+👤 Author: Tarun Kumar Saxena (Independent Researcher)  
+🔒 Status: Hard-locked theory (v3.0)
+# MOSGM-I
 MOSGM-I: A phenomenological framework for environment-dependent gravity.
 
 **Author:** Tarun Kumar Saxena  
